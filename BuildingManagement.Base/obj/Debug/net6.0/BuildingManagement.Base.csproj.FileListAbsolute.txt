@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Base\bin\Debug\net6.0\BuildingManagement.Base.deps.json
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Base\bin\Debug\net6.0\BuildingManagement.Base.dll
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Base\bin\Debug\net6.0\BuildingManagement.Base.pdb
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Base\obj\Debug\net6.0\BuildingManagement.Base.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Base\obj\Debug\net6.0\BuildingManagement.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Base\obj\Debug\net6.0\BuildingManagement.Base.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Base\obj\Debug\net6.0\BuildingManagement.Base.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Base\obj\Debug\net6.0\BuildingManagement.Base.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Base\obj\Debug\net6.0\BuildingManagement.Base.dll
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Base\obj\Debug\net6.0\refint\BuildingManagement.Base.dll
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Base\obj\Debug\net6.0\BuildingManagement.Base.pdb
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Base\obj\Debug\net6.0\ref\BuildingManagement.Base.dll

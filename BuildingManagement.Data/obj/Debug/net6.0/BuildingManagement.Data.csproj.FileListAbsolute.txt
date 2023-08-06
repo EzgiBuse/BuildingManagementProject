@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Data\bin\Debug\net6.0\BuildingManagement.Data.deps.json
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Data\bin\Debug\net6.0\BuildingManagement.Data.runtimeconfig.json
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Data\bin\Debug\net6.0\BuildingManagement.Data.dll
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Data\bin\Debug\net6.0\BuildingManagement.Data.pdb
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Data\obj\Debug\net6.0\BuildingManagement.Data.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Data\obj\Debug\net6.0\BuildingManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Data\obj\Debug\net6.0\BuildingManagement.Data.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Data\obj\Debug\net6.0\BuildingManagement.Data.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Data\obj\Debug\net6.0\BuildingManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Data\obj\Debug\net6.0\BuildingManagement.Data.dll
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Data\obj\Debug\net6.0\refint\BuildingManagement.Data.dll
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Data\obj\Debug\net6.0\BuildingManagement.Data.pdb
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Data\obj\Debug\net6.0\BuildingManagement.Data.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Data\obj\Debug\net6.0\ref\BuildingManagement.Data.dll

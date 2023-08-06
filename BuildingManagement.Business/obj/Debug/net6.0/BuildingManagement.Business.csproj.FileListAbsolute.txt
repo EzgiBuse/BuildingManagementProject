@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Business\bin\Debug\net6.0\BuildingManagement.Business.deps.json
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Business\bin\Debug\net6.0\BuildingManagement.Business.dll
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Business\bin\Debug\net6.0\BuildingManagement.Business.pdb
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Business\bin\Debug\net6.0\BuildingManagement.Base.dll
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Business\bin\Debug\net6.0\BuildingManagement.Data.dll
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Business\bin\Debug\net6.0\BuildingManagement.Base.pdb
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Business\bin\Debug\net6.0\BuildingManagement.Data.pdb
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Business\obj\Debug\net6.0\BuildingManagement.Business.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Business\obj\Debug\net6.0\BuildingManagement.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Business\obj\Debug\net6.0\BuildingManagement.Business.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Business\obj\Debug\net6.0\BuildingManagement.Business.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Business\obj\Debug\net6.0\BuildingManagement.Business.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Business\obj\Debug\net6.0\BuildingManagement.Business.csproj.CopyComplete
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Business\obj\Debug\net6.0\BuildingManagement.Business.dll
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Business\obj\Debug\net6.0\refint\BuildingManagement.Business.dll
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Business\obj\Debug\net6.0\BuildingManagement.Business.pdb
+C:\Users\ASUS\source\repos\BuildingManagement\BuildingManagement.Business\obj\Debug\net6.0\ref\BuildingManagement.Business.dll
